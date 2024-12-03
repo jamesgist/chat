@@ -7,4 +7,5 @@ update
 facts:
 
 - item1
+- item2
 
